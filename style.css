@@ -1,4 +1,17 @@
 body{
 	text-align: center;
 	font-size: 2em;
+	font-family: Luckiest Guy, cursive;
+	color: aqua green;
+	background-color: #49ffd4;
+	background-image: url("Charmander.gif")
+}
+p{
+	font-family: Ubuntu Mono, monospace;
+}
+
+#about{
+	/*CSS comment*/
+	color: #11f9da;
+	text-transform: uppercase;
 }
