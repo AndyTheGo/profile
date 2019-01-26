@@ -15,3 +15,22 @@ p{
 	color: #11f9da;
 	text-transform: uppercase;
 }
+
+#music{
+	/*CSS comment*/
+	color: #6944fc;
+	text-transform: uppercase;
+}
+
+p{
+	color: blue;
+}
+
+nav ul li{
+	display: inline;
+}
+
+h1{
+/*Target every <h1> and every <h2>*/
+font-style: italic;
+}
